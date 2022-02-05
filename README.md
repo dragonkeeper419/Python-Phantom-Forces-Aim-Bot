@@ -52,3 +52,5 @@ List of values for different monitor sizes:
 4k - [3840, 2160]
 1080p ultrawide - [2560 or 3840, 1080]
 1440p ultrawide - [3440, 1440]
+
+May be updated here-and-there when I decided to come back and work on it some more to optimize performance and accuracy
