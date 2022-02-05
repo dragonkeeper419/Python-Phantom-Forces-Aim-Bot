@@ -70,8 +70,10 @@ off_set_y = int(h*1.5)
 
 def captureWindow():
     status = False
+    
     # time at start of loop
     loop_time = time()
+    
     # If mouse has side buttons, you can assign 0 and 9 to 2 of them and allow easier on/off of Aim Bot
     while 1:
         try:
@@ -126,8 +128,10 @@ def captureWindow():
 
             # If there are too many boxes drawn for the tracker (ex. sun has same color and characters in specific lighting), it won't move mouse
             if 0<len(contours)<6:
+                
                 # Checks if width and height are too big or small, if so it will not move mouse
                 if 5<cw<20 and 5<ch<20:
+                    
                     # Draw box around Tracker for Visual
                     rectangle(contourIMG, (cx,cy), (cx+cw,cy+ch), (255,0,0),2)
 
