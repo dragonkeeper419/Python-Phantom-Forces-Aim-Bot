@@ -18,9 +18,7 @@ Monitor_Size = [2560, 1440] # Set This to you Monitor Size [Width, Height] in pi
 import numpy as np
 import cv2
 import time
-from math import dist
 import keyboard
-from pynput import mouse
 
 
 
