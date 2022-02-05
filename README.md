@@ -4,6 +4,8 @@ Python Computer Vision Aim Bot for Roblox's Phantom Forces
 ! ! ! USE AT YOUR OWN RISK ! ! !
 I will not be at fault if your account is banned
 
+Should be somewhat undetectable by anti-cheat, others players are the problem
+
 Read comments at top of script
 
 Edit for your monitor and then run the python file. I use VSCode to edit and run with debug.
