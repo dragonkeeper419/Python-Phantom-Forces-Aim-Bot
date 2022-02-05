@@ -21,6 +21,8 @@ Requires installation of Python 3 and some libraries:
  - math
  - keyboard
 
+ * * * Will NOT Be Making It An EXE File Due To Safety * * *
+
 Tested on a Desktop:
  - Nvidia 3080 10g GPU 
  - Ryzen 5 5600x CPU
