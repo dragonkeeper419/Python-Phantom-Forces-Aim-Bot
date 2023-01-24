@@ -25,7 +25,7 @@ Requires installation of Python 3 and some libraries:
 
 Tested on a Desktop:
  - Nvidia 3080 10g GPU 
- - Ryzen 5 5600x CPU
+ - Ryzen 5 5900x CPU
  - 32gb 3600mhz c18 RAM
  - 1440p Monitor
 
